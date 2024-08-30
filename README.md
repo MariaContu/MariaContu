@@ -2,8 +2,8 @@
 
 
 
-First of all, I'm Maria and this is my github page. I'm currently in the 4th semester of Computer Science at PUCRS. 
-I'm doing small projects in languages like Java, Python, C, JavaScript, HTML, CSS and VHDL, to improve my knowledge and techniques.
+First of all, I'm Maria and this is my github page. I'm currently in the 6th semester of Computer Science at PUCRS. 
+I'm doing small projects in languages like Java, Python, C, JavaScript, HTML, CSS and Godot, to improve my knowledge and techniques.
 
 <div>
   <a href="https://github.com/MariaContu">
