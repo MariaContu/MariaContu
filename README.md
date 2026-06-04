@@ -44,9 +44,9 @@ from backend APIs to interactive frontends and ML-driven solutions
 
 ### ✨ currently building
 
-* 🎮 adaptive game system with AI-driven mechanics
-* ⚙️ backend APIs with real data integration
-* 🌐 frontend interfaces focused on usability
+* 🎮 **adaptive game recommender system** — AI-driven mechanics for personalized game missions
+* ⚙️ **API Monitor** — backend service for endpoint health checks and incident tracking
+* 🔮 **Tarot Insight** — interactive frontend for tarot card exploration and meanings
 
 ---
 
